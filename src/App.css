@@ -36,21 +36,9 @@ body {
   margin-bottom: 35px;
 }
 
-.logo-icon {
-  width: 48px;
-  height: 48px;
-  background: #163b70;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 10px;
-  font-weight: bold;
-  margin: 0 auto 12px;
-}
 
 .logo h2 {
-  color: #163b70;
+  color: #b12a09;
   font-size: 22px;
 }
 
@@ -66,7 +54,7 @@ body {
 
 .login-heading h1 {
   font-size: 25px;
-  color: #163b70;
+  color: #bd5b22;
   margin-bottom: 8px;
 }
 
@@ -96,11 +84,11 @@ body {
 }
 
 .login-card input:focus {
-  border-color: #2864a5;
+  border-color: #a54128;
 }
 
 .login-button {
-  background: #163b70;
+  background: #703a16;
   color: white;
   padding: 14px;
   border: none;
@@ -136,7 +124,7 @@ body {
 
 .sidebar {
   width: 250px;
-  background: #163b70;
+  background:  #b12a09;
   color: white;
   padding: 25px 18px;
   display: flex;
@@ -154,7 +142,7 @@ body {
 .sidebar-logo .logo-icon {
   margin: 0;
   background: white;
-  color: #163b70;
+  color:  #b12a09;
   width: 40px;
   height: 40px;
 }
@@ -190,7 +178,7 @@ body {
 
 .sidebar nav a:hover,
 .sidebar nav a.active {
-  background: #28558c;
+  background: #8c5028;
   color: white;
 }
 
@@ -206,7 +194,7 @@ body {
 }
 
 .logout-button:hover {
-  background: #28558c;
+  background: #8c5828;
 }
 
 .dashboard-main {
@@ -224,7 +212,7 @@ body {
 }
 
 .topbar h2 {
-  color: #163b70;
+  color: #704116;
   font-size: 22px;
 }
 
@@ -245,7 +233,7 @@ body {
   width: 38px;
   height: 38px;
   background: #dce9f8;
-  color: #163b70;
+  color: #703716;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -261,7 +249,7 @@ body {
 }
 
 .welcome-section h1 {
-  color: #163b70;
+  color: #704116;
   font-size: 25px;
   margin-bottom: 8px;
 }
@@ -293,7 +281,7 @@ body {
 
 .summary-card h2 {
   font-size: 28px;
-  color: #163b70;
+  color: #704116;
   margin: 12px 0 7px;
 }
 
@@ -330,7 +318,7 @@ body {
 
 .new-request-button {
   padding: 11px 16px;
-  background: #163b70;
+  background: #703716;
   color: white;
   border: none;
   border-radius: 7px;
