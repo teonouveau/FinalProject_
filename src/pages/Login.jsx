@@ -26,7 +26,7 @@ function Login() {
 
       <div className="login-card">
 
-       
+        <div className="logo">
           <h2>Smart Registrar</h2>
           <p>Student Request Portal</p>
         </div>
@@ -67,6 +67,8 @@ function Login() {
         </p>
 
       </div>
+
+    </div>
   );
 }
 

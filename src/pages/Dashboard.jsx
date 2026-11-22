@@ -35,8 +35,9 @@ function Dashboard() {
       {/* Sidebar */}
       <aside className="sidebar">
 
-        
+        <div className="sidebar-logo">
           <h2>Smart Registrar</h2>
+        </div>
 
         <p className="menu-label">MAIN MENU</p>
 
