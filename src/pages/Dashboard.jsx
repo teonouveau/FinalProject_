@@ -126,8 +126,11 @@ function Dashboard() {
               <p>Check the status of your submitted documents.</p>
             </div>
 
-            <button className="new-request-button">
-              + New Request
+            <button
+            className="new-request-button"
+            onClick={() => navigate('/new-request')}
+            >
+            + New Request
             </button>
           </div>
 
